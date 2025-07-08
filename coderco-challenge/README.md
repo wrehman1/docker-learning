@@ -30,3 +30,14 @@ http://localhost:5002/ → 👋 Welcome message
 http://localhost:5002/count → 🔢 Increments a visit counter in Redis
 
 
+http://localhost:5000/
+
+You should see:
+
+![image](https://github.com/user-attachments/assets/9f11ab55-0d79-4e60-97e7-75d130298d1f)
+
+http://localhost:5000/count
+
+You’ll see:
+
+![image](https://github.com/user-attachments/assets/25898c5a-b0b0-4887-8a79-0e42082b4337)
