@@ -19,13 +19,8 @@ This project is a simple multi-container application using **Python Flask** and 
 
 ## 📁 Project Structure
 
-flask-redis-app/
-├── app/
-│ ├── app.py
-│ ├── requirements.txt
-│ └── Dockerfile
-├── docker-compose.yml
-└── README.md
+![image](https://github.com/user-attachments/assets/b3227f78-c8bc-4f43-a41e-2a0b247914f3)
+
 
 🌐 Usage
 Open your browser:
